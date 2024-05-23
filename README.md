@@ -1,2 +1,0 @@
-# Hangman
-First Project
